@@ -1,4 +1,4 @@
-# Time Series Anomaly Detection with Traditional Method
+# Time Series Anomaly Detection 
 
 <P>Tools: Google Colaboratory</P>
 
